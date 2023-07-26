@@ -38,9 +38,19 @@ Marcar/desmarcar melhor resposta (somente autor do tópico e instrutor)
 https://www.figma.com/file/p8Hawp1w5g0pCZ3h3ZsCUd/DSLearn-Bootcamp
 
 # Modelagem conceitual
+![dslearn](https://github.com/rodrock95/dslearn-rodrigo/assets/79290866/46a13830-2b89-4f51-ab85-b1c3018181d5)
 
+# Competências
 
+Domínio e ORM:
+- Implementação de um modelo de domínio complexo com Java Spring Boot (projeto dslearn-rodrigo)
+- Instanciação (seed) de um modelo de domínio com SQL
 
+Autorizações:
+- Autorização customizada em nível de serviço
+- Conteúdo customizado para o usuário logado
+- Refresh token
+- Pré-autorização de métodos
 
 
 
