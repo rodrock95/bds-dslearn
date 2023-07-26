@@ -1,4 +1,5 @@
 # dslearn-rodrigo
+https://github.com/rodrock95/dslearn-rodrigo/blob/main/LICENSE
 
 # Sobre o projeto
 O sistema consiste em uma plataforma de ensino que mantém informações de cursos, suas turmas e alunos, bem como um fórum para 
